@@ -1,2 +1,0 @@
-# CtydAvto
-VKN
