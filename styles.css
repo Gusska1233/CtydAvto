@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #96e3cb;
+    padding: 20px;
+}
+
+.logo {
+    width: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
